@@ -14,8 +14,8 @@
 
 ## 주요 변경 내용<br>
 **1. 엔티티 및 레포지토리**<br>
-     - Board / BoardFile 엔티티 및 JPA 레포지토리 구조 마련<br>
-          - 비밀번호(4자리) 저장 시, BCrypt를 사용해 암호화<br>
+- Board / BoardFile 엔티티 및 JPA 레포지토리 구조 마련<br>
+     - 비밀번호(4자리) 저장 시, BCrypt를 사용해 암호화<br>
 
 <br>
 
