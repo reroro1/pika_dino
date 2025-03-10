@@ -41,7 +41,7 @@
 
 <br>
 
-##동작 확인 방법<br>
+## 동작 확인 방법<br>
 **1. 게시글 등록**<br>
 - POST /api/board/write<br>
 - form-data로 "boardDTO" JSON + "files" 업로드
