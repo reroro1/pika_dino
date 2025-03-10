@@ -61,9 +61,9 @@
 
 <br>
 
-**4. 게시글 삭제**<br>
-     - POST /api/board/delete/{id}<br>
-     - Body JSON 예: {"password":"1234"}
+**4. 게시글 삭제**
+- POST /api/board/delete/{id}
+- Body JSON 예: {"password":"1234"}
 
 ## 현재 구현됨
 - [x] 게시글 리스트 (페이징, 공지글 우선 정렬)
